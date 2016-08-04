@@ -1,0 +1,32 @@
+_repo: The-Colour-of-Life_1205
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meynell, Alice
+    aliases:
+    - Meynell, Alice Christiana Thompson
+    - Thompson, A. C. (Alice Christiana)
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '546'
+    url: http://www.gutenberg.org/2009/agents/546
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Meynell
+description: ''
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The colour of life -- A point of biography -- Cloud -- Winds of the
+  world -- The honours of mortality -- At monastery gates -- Rushes and reeds -- Eleonora
+  Duse -- Donkey races -- Grass -- A woman in grey -- Symmetry and incident -- The
+  illusion of historic time -- Eyes.
+title: The Colour of Life
+url: http://www.gutenberg.org/ebooks/1205
